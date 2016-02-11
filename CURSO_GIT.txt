@@ -1,0 +1,48 @@
+******CLASE DE GIT ************
+
+https://github.com/ARGOSYSCOM/proyecto1/settings
+usuario: martinargoty
+password: 4108nicolam
+
+*para crear un repositorio por primera vez
+ git remote add origin https://github.com/ARGOSYSCOM/proyecto1.git
+
+*directorio en el cual estoy trabajando
+  cd C:/Users/martin.argoty/Desktop/proyecto1
+
+*adiciona todo locamente
+git add -A
+
+*graba
+git commit
+
+*tan pronto se da este comando aparece un txt.
+*para uno registrar observaciones en el servidor.
+*con la letra I se inserta
+*para grabar y salir este comando [ESCAPE] wq
+
+
+*manda cambios al servidor
+git push origin master
+
+*aparecera el usuario del servidor del respositorio en este caso
+*es martinargoty
+*password: 4108nicolam
+
+
+
+*para crear una rama y quedar dentro de ella
+git checkout -b nombre_rama
+checkout sirve para cambiar entre ramas similar al cd en DOS.
+
+El atributo -b sirve para crearla
+
+*para clonar un repositorio
+git clone https://github.com/ARGOSYSCOM/proyecto1.git
+
+*para traer actualizaciones del repositorio
+git pull https://github.com/ARGOSYSCOM/proyecto1.git
+
+
+
+

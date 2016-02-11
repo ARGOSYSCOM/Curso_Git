@@ -1,3 +1,4 @@
+archivo usuario1 raiz 
 ******CLASE DE GIT ************
 
 https://github.com/ARGOSYSCOM/proyecto1/settings

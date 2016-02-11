@@ -1,5 +1,9 @@
 archivo usuario1 raiz 
+<<<<<<< HEAD
 archivo usuario interno
+=======
+segundo cambio usuario raiz
+>>>>>>> fc18dd27b0ad7ac13a1ed3c56f05518ed580fc35
 ******CLASE DE GIT ************
 
 https://github.com/ARGOSYSCOM/proyecto1/settings
